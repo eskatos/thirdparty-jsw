@@ -14,12 +14,12 @@
 
   <name>${project.artifactId}</name>
   <packaging>pom</packaging>
-  <url>http://github.com/eskatos/jsw-dist</url>
+  <url>http://github.com/eskatos/thirdparty-jsw</url>
 
   <scm>
-    <url>scm:git:git@github.com:eskatos/jsw-dist.git</url>
-    <connection>scm:git:git@github.com:eskatos/jsw-dist.git</connection>
-    <developerConnection>scm:git:git@github.com:eskatos/jsw-dist.git</developerConnection>
+    <url>scm:git:git@github.com:eskatos/thirdparty-jsw.git</url>
+    <connection>scm:git:git@github.com:eskatos/thirdparty-jsw.git</connection>
+    <developerConnection>scm:git:git@github.com:eskatos/thirdparty-jsw.git</developerConnection>
   </scm>
 
   <build>
@@ -28,7 +28,7 @@
         <plugin>
           <groupId>org.codeartisans</groupId>
           <artifactId>thirdparties-maven-plugin</artifactId>
-          <version>1.0-SNAPSHOT</version>
+          <version>1.0</version>
         </plugin>
       </plugins>
     </pluginManagement>
