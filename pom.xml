@@ -10,7 +10,7 @@
 
   <groupId>org.codeartisans.thirdparties.jsw</groupId>
   <artifactId>jsw-parent</artifactId>
-  <version>3.5.9</version>
+  <version>3.5.10-SNAPSHOT</version>
 
   <name>${project.artifactId}</name>
   <packaging>pom</packaging>
